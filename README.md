@@ -7,6 +7,8 @@ A simple utility to ...
 
 You will need [sbt][1] 0.13 or above installed.
 
+[1]: http://www.scala-sbt.org/
+
 ## Testing
 
     sbt test
